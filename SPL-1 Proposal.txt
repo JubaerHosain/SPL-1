@@ -1,0 +1,10 @@
+Title: GES Calculator
+
+This calculator provides following functionalities:
+
+•Graph of constant functions, linear function, quadratic function, polynomial function exponential function,
+ trigonometric function, logarithmic function, ellipse, parabola, hyperbola etc.
+•Solve linear equation and polynomial equation of n th order.
+•Numerical expression (infix, postfix, prefix) conversion.
+•Numbering conversion in different bases.
+•Some functionality of a simple scientific calculator and programmer calculator.
